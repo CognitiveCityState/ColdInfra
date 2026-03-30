@@ -1,6 +1,6 @@
 # ColdInfra
-**Cold Infrastructure for Safe AI Agents**
-*A secure execution infrastructure for AI agents based on the Cold Existence Theory*
+**Cold Infrastructure Prototype for Safe AI Agents**  
+*A secure execution infrastructure prototype for AI agents based on the Cold Existence Theory*
 
 ---
 
